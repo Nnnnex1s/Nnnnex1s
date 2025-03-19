@@ -1,7 +1,25 @@
-### I am a novice python developer who also studies frameworks.
+# Привет! Я Nnnnex1s
 
-### Language and tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
-![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+Добро пожаловать! Я начинающий разработчик.
+
+## Обо мне
+
+Я изучаю разработку на Python и также имею опыт работы с JavaScript, HTML, CSS и PHP.
+
+## Навыки
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+## Статистика GitHub
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nnnnex1s&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnnnex1s&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Связь
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fr1endsFX)
